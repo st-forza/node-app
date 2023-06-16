@@ -1,4 +1,5 @@
-**Node App with MongoDB Atlas**
+**Node App with MongoDB Atlas**.
+
 This is a simple Node.js application that connects to MongoDB Atlas and retrieves data in JSON format. The application is Dockerized, allowing you to run it in a containerized environment.
 
 **Prerequisites**
