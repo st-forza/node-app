@@ -45,8 +45,8 @@ Clone the repository to your local machine (if you haven't already).
 **Navigate to the project directory:**
 
 cd <project-directory>
-**
-Build the Docker image:**
+
+**Build the Docker image:**
 
     sudo docker build -t node-app .
 
